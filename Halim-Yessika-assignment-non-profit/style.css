@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt|Open+Sans+Condensed:300,700|Muli:400,300,400italic);
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 24pt;
+    color: #0A7271;
+    text-align: center;
+
+}
+h3 {
+    font-family: 'Open Sans Condensed 700', cursive;
+    font-size: 20pt;
+    color: #9eb95f;
+    text-align: left;
+
+}
+.floatleft {
+    float: left;
+    margin: 15px;
+}
+.image {
+    width:100px;
+    height:100px;
+    background-position: left;
+}
+header {
+    background-repeat:no-repeat;
+    background-image: url(meet%20the%20team.jpg);
+    background-position:center left;
+    background-size: cover;
+    height:425px;
+}
+
+header img{
+    padding: 10px;
+}
+
+p {
+    font-family: 'Muli', sans-serif;
+    font-size: 18pt;
+    line-height: 22pt;
+    color: #404040;
+    
+}
+body {
+    background-color: #B2DDF7;
+}
+main {
+    background-color: #f2f2f2;
+    padding: 15px;
+    margin:auto;
+    margin: 25px;
+}

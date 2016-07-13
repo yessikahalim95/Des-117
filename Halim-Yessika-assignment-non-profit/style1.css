@@ -1,0 +1,235 @@
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt|Open+Sans+Condensed:300,700|Muli:400,300,400italic|Amatica+SC);
+
+html {
+  height:100%;
+  background-color: #ffffe6;
+}
+header{
+    background-image: url(home.jpg);
+    height: 600px;
+    background-size: cover;
+}
+.image {
+    width:100px;
+    height:100px;
+    background-position: left;
+}
+header h1 {
+padding: 50px 50px;
+    font-size: 60pt;
+    font-family: 'Rock Salt', cursive;
+    color:#0A7271;
+    text-shadow: 2px 4px #10bcb9;
+}
+header img{
+    padding: 10px;
+}
+h2 {
+    font-size: 30pt;
+    font-family: 'Amatica SC', cursive;
+    color:#0A7271;
+}
+h3 {
+    margin: 0px;
+    text-align: center;
+    font-size: 30pt;
+    font-family: 'Amatica SC', cursive;
+    color:#ffffff;
+}
+#history {
+    background-color:#8fbfdc;
+    padding: 5px;
+    text-align: center;
+    color: #404040;
+    font-family: 'Muli', cursive;
+    font-size: 12pt;
+    margin: 15px;
+    margin-left: 150px;
+    font-weight: bold;
+    height: 270px;
+    width: 500px;
+}
+#behindtext {
+    color: #ffffff;
+    font-family: 'Amatica SC', cursive;
+    font-size: 22pt;
+    text-align: right;
+}
+#history:hover {
+    opacity: 0.9;
+}
+.form {
+    background-image:url(volunteer.png);
+    text-align: left;
+    color: #404040;
+    font-family: 'Muli', cursive;
+    font-size: 14pt;
+    padding: 5px;
+    margin: 15px;
+    font-weight: bold;
+    height: 260px;
+    width: 300px;
+    background-repeat:no-repeat;
+    overflow:scroll
+}
+#donate {
+    border-style: dotted;
+    border-color: #8fbfdc;
+    text-align: center;
+    color: #404040;
+    font-family: 'Open Sans Condensed', cursive;
+    font-size: 20pt;
+    padding: 5px;
+    margin: 15px;
+    font-weight: bold;
+    height: 330px;
+    width: 600px;
+    background-repeat:no-repeat;
+    overflow: hidden;
+}
+.bluebackground {
+    background-color: #8fbfdc;
+    width:100px;
+    text-align: center;
+    color: #ffffff;
+    padding: 10px;
+    margin: 0px 5px 0px 5px;
+}
+.dbluebackground {
+    background-color: #0A7271;
+    width:100px;
+    text-align: center;
+    color: #ffffff;
+    padding: 10px;
+    margin: 0px 5px 0px 5px;
+}
+.one-half {
+            width: 50%;
+        }
+        
+        .one-third {
+            width: 33%;
+        }
+.three-quarters {
+    width: 75%;
+}
+
+.one-fourth {
+    width: 25%;
+}
+.one-sixth {
+    width:  11%;
+}
+.five-sixth {
+    width:44%;
+}
+.two-thirds {
+    width: 66%;
+}
+.two-sixth {
+    width: 22%;
+}
+        .column {
+            float: left;
+        }
+        
+        .row:after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+#social{
+            width: 50px;
+    height:40px;
+    margin-bottom: -15px;
+    margin-left: -30px;
+        }
+.social {
+    width:30px;
+    height: 30px;
+}
+#events {
+    text-align: center;
+    background-color: #c7deed;
+    padding: 25px;
+    box-sizing: border-box;
+    font-family: 'Muli', cursive;
+    font-weight: bold;
+    font-size: 20pt;
+}
+nav ul {
+  text-align: right;
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+nav ul li {
+  display:inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+  padding: 18px;
+  font-family: "Rock Salt", cursive;
+  color: rgba(0, 35, 122, 0.5);
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+}
+
+nav ul li a:hover {
+  color: rgba(0, 35, 122, 0.7);
+}
+
+#behind {
+    background-image:url(meet%20the%20team.jpg);
+    height: 500px;
+    width:100%;
+    margin: 15px;
+    color: #ffffff;
+    font-size: 28pt;
+    text-indent: 20px;
+    font-family: 'Amatica SC', cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#quote {
+    margin: 15px;
+    margin-left: 50px;
+    margin-right: 70px;
+    color: #b3b3b3;
+    font-size: 16pt;
+    line-height: 40pt;
+    text-indent: 20px;
+    font-family: 'Open Sans Condensed', cursive;
+    text-align: left;
+}
+.indent {
+    text-align: right;
+}
+.behindscenes {
+    text-decoration: none;
+}
+#behind a {
+    color: #ffffff;
+}
+#behind1 {
+     background-image:url(ridwan%20kamil.jpg);
+    height: 260px;
+    width: 300px;
+    margin: 15px;
+    color:#0A7271;
+    font-size: 22pt;
+    text-align: right;
+    padding: 5px;
+    background-repeat: no-repeat;
+    font-family: 'Amatica SC', cursive;
+}
+#behind1:hover {
+    opacity: 0.9;
+}
+#behind:hover {
+    opacity: 0.9
+}
+

@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt|Open+Sans+Condensed:300,700|Muli:400,300,400italic);
+
+header{
+    background-image: url(home.jpg);
+    height: 600px;
+    background-size: cover;
+}
+.image {
+    width:100px;
+    height:100px;
+    background-position: left;
+}
+header h1 {
+padding: 50px 50px;
+    font-size: 60pt;
+    font-family: 'Rock Salt', cursive;
+    color:#0A7271;
+    text-shadow: 2px 4px #10bcb9;
+}
+header img{
+    padding: 10px;
+}
+h2 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 24pt;
+    color: #0A7271;
+    text-align: center;
+
+}
+h3 {
+    font-family: 'Open Sans Condensed 700', cursive;
+    font-size: 20pt;
+    color: #9eb95f;
+    text-align: left;
+
+}
+h4 {
+    font-family: 'Open Sans Condensed', cursive;
+    font-size: 18pt;
+    color: #0A7271;
+}
+.floatright {
+    float: right;
+    margin: 15px;
+}
+.floatleft {
+    float: left;
+    margin: 25px;
+}
+p {
+    font-family: 'Muli', sans-serif;
+    font-size: 14pt;
+    line-height: 18pt;
+    color: #404040;
+    text-indent: 50px;
+    
+}
+body {
+    background-color: #B2DDF7;
+}
+main {
+    background-color: #f2f2f2;
+    padding: 15px;
+    margin:auto;
+    margin: 25px;
+}
